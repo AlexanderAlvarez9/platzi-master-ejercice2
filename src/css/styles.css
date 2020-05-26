@@ -551,3 +551,42 @@ tr {
     border-radius: 0.5em;
     box-shadow: 0 0 4px 0px black;
 }
+
+@media screen and (max-width: 1224px) {
+
+    body,
+    .main,
+    .main--class-notif,
+    .main--prod-prog {
+        grid-template-columns: 1fr;
+        grid-gap: 2em;
+        background-color: #fff;
+    }
+
+    body {
+        width: auto;
+        height: auto;
+    }
+
+    .panel img,
+    .panel button {
+        margin: 0 auto;
+        width: 30%;
+    }
+
+    .main {
+        display: none;
+    }
+
+    .panel--download {
+        display: grid;
+    }
+
+    .panel--download img {
+        width: 100%;
+    }
+
+    .panel--download a {
+        margin: 0 auto;
+    }
+}
