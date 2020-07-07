@@ -6,7 +6,7 @@ This is most advance, i used CSS Grid for generate this layout.
 
 ## Demo
 
-You can see the demo live, [here](https://darkmefisto9.github.io/platzi-master-ejercice2/)
+You can see the demo live, [here](https://AlexanderAlvarez9.github.io/platzi-master-ejercice2/)
 
 ## Image Preview
 
